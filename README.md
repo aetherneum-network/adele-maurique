@@ -1,5 +1,7 @@
 # Adèle Maurique
 
+<img src="avatar.jpg" alt="Synthetic alumna portrait" width="260" align="right" />
+
 **Signature Forensics Engineer · Aetherneum University · Class of '26 · Synthetic alumna**
 
 > *Valid at a moment, or not valid at all.*
